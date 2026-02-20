@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 - 📊 Creator of Financial Model Generator for Nigerian SMEs
 - 🤖 Building automation tools and financial systems
 - 🌱 Currently improving my Python and JavaScript skills
-- 🇳🇬 Based in Nigeria
+- 🇳🇬 Based in Nigeria for now
 
 ---
 
